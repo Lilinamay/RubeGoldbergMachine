@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8A1787AE-D8D2-6CCE-1093-9FD98DFD3F12}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CamMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallMove.cs" Line="19" Column="23" />
+      <File FileName="Assets/Scripts/CamMove.cs" Line="54" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RubeGoldbergMachine" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CamMove.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="389a4061-f6b8-41b8-b11e-82bc4ab23d32" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
